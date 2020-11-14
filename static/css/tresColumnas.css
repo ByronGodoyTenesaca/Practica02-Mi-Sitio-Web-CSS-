@@ -1,0 +1,9 @@
+.col-izquierda{
+    width: 30%;
+    float: left;  
+    padding-left: 10px;
+}
+
+footer{
+    clear: both;
+}
